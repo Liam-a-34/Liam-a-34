@@ -7,7 +7,7 @@
 ## About Me
 
 * Age: 20
-* Location: Nashville, TN
+* Location: Woodbury, TN
 
 I'm a new Junior Developer, specializing in front end development, and UI/UX design. I've spent most of my life on a farm, doing manual jobs, or working in warehouse.
 Since fourth grade I've been showing livestock (mainly goats) at local, state, and national levels. Along the way I've learned the value of a hard work ethic, and developed an intense drive to succeed. I've only recently gotten in to the development field, but I am genuinely enjoying it, and finding satasfaction in my work in the field. 
