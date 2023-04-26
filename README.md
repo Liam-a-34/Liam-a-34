@@ -33,6 +33,10 @@ Thank you for being here! I look forward to connecting with you soon.
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Liam-a-34&count_private=true&theme=tokyonight&showicons=true)]()
 
+## Portfolio
+
+Link: https://liam-a-34.github.io/React-Portfolio/
+
 ## Skills
 
 * Debugging
