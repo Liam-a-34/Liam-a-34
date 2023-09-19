@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Liam!</h1>
 
-<h3>I'm currently coding in .net and working on Azure!</h3>
+<h3 align="center">I'm currently coding in .net and working on Azure!</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
