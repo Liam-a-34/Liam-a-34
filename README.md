@@ -8,8 +8,8 @@
 
 ## About Me
 
-* Age: 20
-* Location: Woodbury, TN
+* Age: 21
+* Location: Michigan
 * Email: liamallen343@gmail.com
 * Phone: (615) 308-4472
 
