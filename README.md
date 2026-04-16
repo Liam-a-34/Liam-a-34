@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Age: 21
+* Age: 23
 * Location: Michigan
 * Email: liamallen343@gmail.com
 * Phone: (615) 308-4472
